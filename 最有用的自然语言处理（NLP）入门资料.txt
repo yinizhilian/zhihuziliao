@@ -1,0 +1,17 @@
+自然语言处理之“词向量表示”《视频资料》
+链接地址: https://pan.baidu.com/s/1PKnSu-z5np38v6e8kHjYiA 提取码: 1sp3 
+
+自然语言处理之“自然语言处理”《视频资料（基础语言python）》
+链接: https://pan.baidu.com/s/1f3ekUVB0xiuTt2QjyIghhg 提取码: j28g 
+
+自然语言处理之“机器翻译方向”《哈工大知名教授自然语言理解视频教程》
+链接地址： https://pan.baidu.com/s/1Zycx-Bqo8KCd5rjPIELeSg 提取码: 74pn 
+
+自然语言处理之“聊天机器人”《基于python讲解的视频资料》
+链接地址: https://pan.baidu.com/s/1cl5BjTmT39zIJA3kAkDD2Q 提取码: wq2b 
+
+自然语言处理之“文本挖掘与自然语言处理”《视频》
+链接: https://pan.baidu.com/s/1Z0ZLllkx0JB8wZkwNyqpiA 提取码: 9g8g
+
+本资料是斯坦福大学CS224N  Richard Socher老师的课件！！
+链接地址：https://pan.baidu.com/s/1ieJzb-ghjlfbOrFAj_rW6Q 提取码：sscp 
